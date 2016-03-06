@@ -4,7 +4,7 @@
     <name>Assignment 1</name>
 
     <description>
-        most basic of examples, responds to deviceready
+        Basic quiz app
     </description>
     <content src="index.html" />
     <author href="https://pleepploop.github.io">
