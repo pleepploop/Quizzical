@@ -1,0 +1,45 @@
+{"quizlist": [
+    {
+    "question": "Who directed the 1985 film Brazil?",
+    "option1": "TerryGilliam1.jpg",
+    "option2": "DavidLynch1.jpg",    
+    "option3":    "StevenSpielberg1.jpg", 
+    "option4":    "StanelyKubrick1.jpg"
+    
+}, 
+    {
+    "question": "Which of the following did not win the Academy Award for Best Picture?",
+    "option1": "SavingPrivateRyan1.jpg",
+    "option2":"AmericanBeauty1.jpg",
+    "option3":"LOTR_ROTK1.jpg",
+    "option4": "Braveheart1.jpg"
+   
+}, 
+    {
+    "question": "What film has the highest opening weekend at the box office with an R-Rating ?",
+    "option1":"Deadpool1.jpg",
+    "option2":"ThePassionOfTheChrist1.jpg",
+    "option3":"TheMatrix1.jpg",
+    "option4":"TheWatchmen1.jpg"
+           
+    
+}, 
+    {
+    "question": "Which actor has the most Academy Award Nominations?",
+    "option1":"MerylStreep1.jpg",
+    "option2":"KatharineHepburn1.jpg",
+    "option3":"JackNicholson1.jpg",
+    "option4":"DanielDayLewis1.jpg"
+    
+   
+}, 
+    {
+    "question": "Which film was the first to be declared a Blockbuster?",
+    "option1":"Jaws1.jpg",
+    "option2":"Alien1.jpg",
+    "option3":"Starwars1.jpg", 
+    "option4": "Bladerunner1.jpg" 
+   
+}]}
+
+  
